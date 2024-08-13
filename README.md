@@ -33,15 +33,15 @@ Sales team table: Sales manager and sales regions.
 ### Data Sources
 The primary dataset used for this analysis is "CRM+Sales+Opportunities" folder, containing information about the accounts, products and each sales made by CRM system.
 
-accounts.xlsx
+"accounts.xlsx"
 
-data_dictionary.xlsx
+"data_dictionary.xlsx"
 
-products.xlsx
+"products.xlsx"
 
-sales_pipeline.xlsx
+"sales_pipeline.xlsx"
 
-sales_teams.xlsx
+"sales_teams.xlsx"
 
 ### Tools
 - MySQL - Data Cleaning, data retrieval and analysis
