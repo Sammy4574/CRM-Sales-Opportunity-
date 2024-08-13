@@ -44,7 +44,7 @@ sales_pipeline.xlsx
 sales_teams.xlsx
 
 ### Tools
-- MYSQL - Data Cleaning, data retrieval and analysis
+- MySQL - Data Cleaning, data retrieval and analysis
   - [Download here](https://mysql.com)
 - Power BI - Visualization, creating reports and recommendations
 
