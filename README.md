@@ -1,4 +1,4 @@
-# CRM-Sales-Opportunity-
+# CRM-Sales-Opportunity
 Customer relationship management (CRM) system
 
 ### Table of contents
@@ -26,11 +26,9 @@ Sales pipeline table: Sales transactions, sales agent and deal stage.
 
 Sales team table: Sales manager and sales regions.
 
-
-![chart](https://github.com/Sammy4574/super_store/assets/108801834/1b577f8f-c363-4167-bb7a-731a983d1950)
-
-![piechart](https://github.com/Sammy4574/super_store/assets/108801834/da479542-4d12-403f-a574-f8ae4f8fc011)
-
+![crm1](https://github.com/user-attachments/assets/e9f7e33a-8028-4cde-bffd-5f137abd4677)
+![crm2](https://github.com/user-attachments/assets/61d12063-f9be-4687-896b-c27c56f47cf0)
+![crm3](https://github.com/user-attachments/assets/e8ef28e5-f56e-4251-b478-dc140ee754c2)
 
 ### Data Sources
 The primary dataset used for this analysis is "CRM+Sales+Opportunities" folder, containing information about the accounts, products and each sales made by CRM system.
